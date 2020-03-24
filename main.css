@@ -1,0 +1,19 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+h3{
+    text-align: center;
+}
+#first{
+    width: 100%;
+    margin-left:40%;
+    text-align: center;
+}
+#sencend{
+    width: 60%;
+    height: 50%;
+    margin: 20px auto;
+}
